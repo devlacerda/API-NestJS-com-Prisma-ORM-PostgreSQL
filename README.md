@@ -31,7 +31,7 @@ API RESTful construída com **NestJS**, **Prisma ORM** e **PostgreSQL (NeonDB)**
 ### 1. Clone o repositório
 
 ```bash
-git clone 
+git clone https://github.com/devlacerda/API-NestJS-com-Prisma-ORM-PostgreSQL.git
 cd API-NestJS-com-Prisma-ORM-PostgreSQL
 ```
 
